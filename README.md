@@ -1,4 +1,5 @@
 # Resolução dos Desafios Digital Innovation One
+É uma plataforma Open Education com o objetivo de democratizar o conhecimento em desenvolvimento de software e tecnologias exponenciais.
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
